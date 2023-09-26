@@ -27,8 +27,8 @@ As an enthusiast of deep learning, I believe in its potential to revolutionize v
 <table>
 <thead>
 <tr>
-<th><img src="https://github-readme-stats.vercel.app/api?username=hiendang7613&show_icons=true&theme=gotham&count_private=true&hide_border=true" width="600" alt="hiendang7613"/></th>
-<th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiendang7613&layout=compact&theme=buefy&hide_border=true" width="520" alt="hiendang7613"/></th>
+<th><img src="https://github-readme-stats.vercel.app/api?username=NguyenThaiHoc1&show_icons=true&theme=gotham&count_private=true&hide_border=true" width="600" alt="hiendang7613"/></th>
+<th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenThaiHoc1&layout=compact&theme=buefy&hide_border=true" width="520" alt="hiendang7613"/></th>
 </tr>
 </thead>
 </table>
